@@ -1,0 +1,40 @@
+_repo: Emmanuel-Appadocca-or-Blighted-life-Volume-2-of-2-b-A-tale-of-the-boucaneers_75314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Philip, Maxwell
+    alias: Philip, Michel Maxwell
+    birthdate: 1829
+    deathdate: 1888
+    gutenberg_agent_id: '57941'
+    url: http://www.gutenberg.org/2009/agents/57941
+    wikipedia: https://en.wikipedia.org/wiki/Michel_Maxwell_Philip
+description: ''
+gutenberg_issued: '2025-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75314'
+language: en
+pgterms:marc904: https://archive.org/details/emmanuelappadoc01philgoog
+pgterms:marc905: 20210421192805philip
+pgterms:marc906: '1854'
+pgterms:marc907: gb
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bCharles J. Skeet, Publisher, $c1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Buccaneers -- Fiction'
+- !lcsh 'Trinidad -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Emmanuel Appadocca; or, Blighted life, Volume 2 (of 2) : $b A tale of the
+  boucaneers'
+url: http://www.gutenberg.org/ebooks/75314
